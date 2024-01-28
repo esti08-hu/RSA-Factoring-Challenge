@@ -1,6 +1,6 @@
 ## Author : Estifanos Ameha:
 
-# RSA Factoring Challenge :cat:
+# RSA Factoring Challenge :
 
 - This repository is dedicated to the RSA factoring challenge, where the goal is to read in and factorize a file of numbers. The provided Bash script, "factors," is designed for this purpose.
 
